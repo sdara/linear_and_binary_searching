@@ -15,6 +15,8 @@ Description	:
 
 //Include header files for the entire program to use
 #include <iostream.h>
+#include<stdio.h>
+#include<conio.h>
 #include <iomanip.h>
 
 //Global Variables
